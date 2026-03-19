@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Reportly favicon">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8c96e"/>
+      <stop offset="100%" stop-color="#c9a84c"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0f0f0e"/>
+  <path d="M18 46V18h10.5c11 0 17.5 5.3 17.5 14.1C46 40.8 39.5 46 28.5 46H18Zm8-6.5h2.3c6.1 0 9.6-2.5 9.6-7.4 0-4.9-3.5-7.6-9.6-7.6H26v15Z" fill="url(#g)"/>
+</svg>
